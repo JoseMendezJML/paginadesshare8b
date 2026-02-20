@@ -19,10 +19,10 @@
     <a href="./yulissa.docx"> Jose Juan </a>
      </li>
       <li>
-    <a href="./nombreintegrantes.docs"> Yulissa A  </a>
+    <a href="./valeria.docx"> valeria  </a>
      </li>
       <li>
-    <a href="./nombreintegrantes.docs"> Jesus Efren </a>
+    <a href="./efren.docx"> Jesus Efren </a>
     </li>
     
 </ul>
