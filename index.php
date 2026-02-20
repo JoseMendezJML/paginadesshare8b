@@ -13,10 +13,10 @@
     <ul>
         <li>
            
-        <a href="./nombreintegrantes.docs"> Valeria Aguilar </a>
+        <a href="./jose.docx"> Valeria Aguilar </a>
          </li>
           <li>
-    <a href="./nombreintegrantes.docs"> Jose Juan </a>
+    <a href="./yulissa.docx"> Jose Juan </a>
      </li>
       <li>
     <a href="./nombreintegrantes.docs"> Yulissa A  </a>
